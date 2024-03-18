@@ -1,7 +1,7 @@
 
 # React Music App
 
-A brief description of what this project does and who it's for
+A simple frontend project to play music fron list.
 
 
 ## Installation
